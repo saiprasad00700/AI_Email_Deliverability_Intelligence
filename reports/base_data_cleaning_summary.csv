@@ -1,0 +1,9 @@
+check,result,action
+Raw rows,908229,Source dataset
+Exact duplicate rows removed,3,Removed exact duplicates
+Final rows,908226,Final processed dataset
+Invalid timestamps,0,All timestamps successfully parsed
+Domain -1 sentinel values,0,Converted -1 sentinel to NaN
+Zero-subscriber records,38213,Retained and flagged
+Zero-subscriber records with activity,7,Retained and flagged
+Blocked > subscribers records,144,Retained; valid because blocked and sent are different populations

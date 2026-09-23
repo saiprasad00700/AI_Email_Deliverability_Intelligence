@@ -1,0 +1,120 @@
+column_name,data_type,missing_count,missing_percentage,column_group
+client_id,int64,0,0.0,Identity / Client
+client_tag_name,object,606654,66.8,Identity / Client
+client_tag_num,int64,0,0.0,Identity / Client
+campaign_id,int64,0,0.0,Identity / Client
+campaign_test_id,int64,0,0.0,Identity / Client
+campaign_test_part,object,0,0.0,Campaign Testing
+campaign_test_type,object,0,0.0,Campaign Testing
+campaign_sent_time,object,0,0.0,Timestamp
+message_content_size,int64,0,0.0,Message Characteristics
+message_images_count,int64,0,0.0,Message Characteristics
+message_embedded_images_count,int64,0,0.0,Message Characteristics
+message_embedded_images_size,int64,0,0.0,Message Characteristics
+message_embedded_files_count,int64,0,0.0,Message Characteristics
+message_embedded_files_size,int64,0,0.0,Message Characteristics
+message_links_count,int64,0,0.0,Message Characteristics
+message_links_blocked_count,int64,0,0.0,Message Characteristics
+message_personalization_tags_count,int64,0,0.0,Message Characteristics
+message_personalization_tags_in_sender_email_count,int64,0,0.0,Message Characteristics
+message_personalization_tags_in_subject_count,int64,0,0.0,Message Characteristics
+message_personalization_tags_in_html_body_count,int64,0,0.0,Message Characteristics
+message_personalization_tags_in_text_body_count,int64,0,0.0,Message Characteristics
+custom_fields_used_in_campaign,int64,0,0.0,Other
+campaign_subscribers_count,int64,0,0.0,Campaign Volume / Audience
+campaign_phantom_bounce_count,int64,0,0.0,Campaign Volume / Audience
+campaign_subscribers_blocked_count,int64,0,0.0,Campaign Volume / Audience
+campaign_opens_count,int64,0,0.0,Other
+campaign_unique_opens_count,int64,0,0.0,Other
+campaign_clicks_count,int64,0,0.0,Other
+campaign_unique_clicks_count,int64,0,0.0,Other
+campaign_soft_bounced_count,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count,int64,0,0.0,Other
+campaign_complaint_count,int64,0,0.0,Negative Deliverability Signals
+campaign_phishing_count,int64,0,0.0,Negative Deliverability Signals
+campaign_moderation_rejected_count,int64,0,0.0,Moderation
+campaign_moderation,int64,0,0.0,Moderation
+campaign_landing_page,int64,0,0.0,Campaign Features
+campaign_opens_count_0,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_0,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_0,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_0,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_0,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_0,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_0,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_0,int64,0,0.0,Negative Deliverability Signals
+campaign_opens_count_30,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_30,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_30,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_30,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_30,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_30,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_30,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_30,int64,0,0.0,Negative Deliverability Signals
+campaign_opens_count_60,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_60,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_60,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_60,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_60,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_60,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_60,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_60,int64,0,0.0,Negative Deliverability Signals
+campaign_opens_count_180,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_180,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_180,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_180,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_180,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_180,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_180,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_180,int64,0,0.0,Negative Deliverability Signals
+campaign_opens_count_360,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_360,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_360,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_360,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_360,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_360,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_360,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_360,int64,0,0.0,Negative Deliverability Signals
+campaign_opens_count_720,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_720,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_720,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_720,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_720,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_720,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_720,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_720,int64,0,0.0,Negative Deliverability Signals
+campaign_opens_count_1440,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_1440,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_1440,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_1440,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_1440,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_1440,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_1440,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_1440,int64,0,0.0,Negative Deliverability Signals
+campaign_opens_count_2880,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_2880,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_2880,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_2880,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_2880,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_2880,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_2880,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_2880,int64,0,0.0,Negative Deliverability Signals
+campaign_opens_count_4320,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_opens_count_4320,int64,0,0.0,Historical / Time-Window Metrics
+campaign_clicks_count_4320,int64,0,0.0,Historical / Time-Window Metrics
+campaign_unique_clicks_count_4320,int64,0,0.0,Historical / Time-Window Metrics
+campaign_soft_bounced_count_4320,int64,0,0.0,Bounce / Delivery
+campaign_hard_bounced_count_4320,int64,0,0.0,Bounce / Delivery
+campaign_resigned_count_4320,int64,0,0.0,Historical / Time-Window Metrics
+campaign_complaint_count_4320,int64,0,0.0,Negative Deliverability Signals
+domain_in_links_min_creation_time,object,182273,20.07,Linked Domain Intelligence
+domain_in_links_max_creation_time,object,182273,20.07,Linked Domain Intelligence
+domain_in_links_avg_creation_time,object,182273,20.07,Linked Domain Intelligence
+domain_in_links_most_used_creation_time,object,437221,48.14,Linked Domain Intelligence
+domain_in_links_min_creation_time_diff,int64,0,0.0,Linked Domain Intelligence
+domain_in_links_max_creation_time_diff,int64,0,0.0,Linked Domain Intelligence
+domain_in_links_avg_creation_time_diff,int64,0,0.0,Linked Domain Intelligence
+domain_in_links_most_used_creation_time_diff,int64,0,0.0,Linked Domain Intelligence
+registrar_domain_number,int64,0,0.0,Domain Counts
+domain_number,int64,0,0.0,Domain Counts

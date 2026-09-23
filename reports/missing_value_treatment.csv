@@ -1,0 +1,10 @@
+column,treatment,reason
+client_tag_name,Missing → No_Tag,Absence of client tag is meaningful
+domain_in_links_min_creation_time,Preserve NaN,Domain information unavailable
+domain_in_links_max_creation_time,Preserve NaN,Domain information unavailable
+domain_in_links_avg_creation_time,Preserve NaN,Domain information unavailable
+domain_in_links_most_used_creation_time,Preserve NaN,Domain information unavailable
+domain_in_links_min_creation_time_diff,Preserve NaN,Domain information unavailable
+domain_in_links_max_creation_time_diff,Preserve NaN,Domain information unavailable
+domain_in_links_avg_creation_time_diff,Preserve NaN,Domain information unavailable
+domain_in_links_most_used_creation_time_diff,Preserve NaN,Domain information unavailable
